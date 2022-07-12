@@ -12,8 +12,17 @@ https://www.candefero.com/survey/surveystart.php?id=983
 https://app.canapii.com/login?e=cisco-provider-elevate
 
 
+### Marketing Material
+
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982077ddace40017e313eabdd1e94/programs/8a9982187e40b3f6017e4ec6ef4c49c8
+
+**k-12 campaign**
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99832080d0b49e0180ddef93ea1aae/programs/8a99825480ed61730180f1c699cf0e5e
+
 ### How are people selling in MSP?
 
+### Capaign Resources
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982077ddace40017e313eabdd1e94
 
 ### Simplified MSP
 https://www.youtube.com/watch?v=iG6dShv5r-Y&ab_channel=MichelleRagusa-McBain
