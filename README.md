@@ -11,12 +11,6 @@ https://meraki.cisco.com/managedserviceproviders
    
 </details>
 
-<details>
-<summary>Financials</summary>
-Redirect to that repository
-</details>
-
-<details>
 <summary>Security Offerings</summary>
 
 ### Is ICE an option?
@@ -135,23 +129,30 @@ https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982077ddace
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<details>
+<summary>Community</summary>
 
 ### Cisco Community 
 
 https://community.cisco.com/t5/cisco-insider-user-group/ct-p/ccp-home?ccid=cc001547
+
+
+</details>
+
+<details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
