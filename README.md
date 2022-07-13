@@ -1,19 +1,61 @@
-# procellis-msp
-Resources for the msp practice
+<h1 align="center">
+   ✂️ Procellis-MSP ✂️
+</h1>
 
+Resources for the MSP practice
 
-### Survey Assessment
+<details>
+<summary>Getting Started</summary>
+Redirect to that repository
+</details>
+
+<details>
+<summary>Financials</summary>
+Redirect to that repository
+</details>
+
+<details>
+<summary>Reports</summary>
+Redirect to that repository
+</details>
+
+<details>
+<summary>Go-to-Market</summary>
+Redirect to that repository
+</details>
+
+<details>
+<summary>Cisco Capital</summary>
+### Cisco Capital
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982127bec1204017bf00afc7f18e2
+
+**Partner**
+
+**Customer**
+
+</details>
+
+<details>
+<summary>Survey and Assessments</summary>
+Redirect to that repository
+
+## Survey Assessment
 In 32 questions the Alys Assessment will help you to understand how you compare with your MSP peers, prepare you a personalized report with recommendations as to how you can develop your organization.
 
 https://www.candefero.com/survey/surveystart.php?id=983
+
+</details>
+
+
+
+
 
 ### Cisco Partners Elevate
 
 https://app.canapii.com/login?e=cisco-provider-elevate
 
 
-### Cisco Capital
-https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982127bec1204017bf00afc7f18e2
+
 
 ### Marketing Material
 
