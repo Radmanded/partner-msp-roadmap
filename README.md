@@ -19,9 +19,7 @@ Redirect to that repository
 <details>
 <summary>Security Offerings</summary>
 
-### Security offering
-
-## Is ICE an option?
+### Is ICE an option?
 
 https://github.com/plloyd44/CiscoLive_ISE_in_AWS
 
@@ -34,15 +32,20 @@ https://salesconnect.cisco.com/#/program/PAGE-18439
 
 <details>
 <summary>Technical Resources</summary>
+    
+**Meraki Best Practice**
+    
+https://documentation.meraki.com/Architectures_and_Best_Practices/Cisco_Meraki_Best_Practice_Design
    
-### Meraki MSP
+**Meraki MSP**
 
 https://documentation.meraki.com/General_Administration/Managed_Service_Providers_(MSPs)
 
-# Technical
+**Duo Automation**
+    
 https://github.com/aws-quickstart/quickstart-cisco-duo-network-gateway/blob/main/templates/quickstart-cisco-duo-network-gateway-master.template.yaml
    
-### Cisco Meraki Vitual MX on AWS Cloud
+**Cisco Meraki Vitual MX on AWS Cloud - Automation**
 
 https://aws-quickstart.github.io/quickstart-cisco-meraki-sd-wan-vmx/
 
