@@ -77,6 +77,16 @@ https://www.candefero.com/survey/surveystart.php?id=983
 
 <details>
 <summary>Partner Programs</summary>
+    
+### Meraki Managed Services Hub  🔥
+    
+https://community.meraki.com/t5/Meraki-Managed-Services-Hub/bg-p/managed-services-hub/label-name/the%20msp%20playbook
+    
+
+
+### MSP Sensei Course
+
+https://salesconnect.cisco.com/#/program/PAGE-17910 
 
 ### Cisco Partners Elevate
 
