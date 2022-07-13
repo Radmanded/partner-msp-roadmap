@@ -32,7 +32,16 @@ https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99827b709e2e
 ### Webex
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99827775de60370175e053e5a30cfd
 
+
+# Technical
+https://github.com/aws-quickstart/quickstart-cisco-duo-network-gateway/blob/main/templates/quickstart-cisco-duo-network-gateway-master.template.yaml
+
+
 ### Security offering
+
+## Is ICE an option?
+
+https://github.com/plloyd44/CiscoLive_ISE_in_AWS
 
 **SASE**
 
