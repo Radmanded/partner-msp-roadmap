@@ -15,13 +15,28 @@ Redirect to that repository
 </details>
 
 <details>
-<summary>Reports</summary>
-Redirect to that repository
+<summary>Security Offerings</summary>
+
+### Security offering
+
+## Is ICE an option?
+
+https://github.com/plloyd44/CiscoLive_ISE_in_AWS
+
+**SASE**
+
+https://salesconnect.cisco.com/#/program/PAGE-18439
+
+
 </details>
 
 <details>
-<summary>Go-to-Market</summary>
-Redirect to that repository
+<summary>Technical Resources</summary>
+
+# Technical
+https://github.com/aws-quickstart/quickstart-cisco-duo-network-gateway/blob/main/templates/quickstart-cisco-duo-network-gateway-master.template.yaml
+   
+ 
 </details>
 
 <details>
@@ -47,15 +62,17 @@ https://www.candefero.com/survey/surveystart.php?id=983
 </details>
 
 
-
-
+<details>
+<summary>Partner Programs</summary>
 
 ### Cisco Partners Elevate
 
-https://app.canapii.com/login?e=cisco-provider-elevate
+https://app.canapii.com/login?e=cisco-provider-elevate  
+   
+</details>
 
-
-
+<details>
+<summary>Go-to-Market</summary>
 
 ### Marketing Material
 
@@ -72,30 +89,14 @@ https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99838e7c23c0
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99827b709e2ec80170a0a1761408be
 
 ### Webex
-https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99827775de60370175e053e5a30cfd
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99827775de60370175e053e5a30cfd   
 
-
-# Technical
-https://github.com/aws-quickstart/quickstart-cisco-duo-network-gateway/blob/main/templates/quickstart-cisco-duo-network-gateway-master.template.yaml
-
-
-### Security offering
-
-## Is ICE an option?
-
-https://github.com/plloyd44/CiscoLive_ISE_in_AWS
-
-**SASE**
-
-https://salesconnect.cisco.com/#/program/PAGE-18439
-
-**Hybrid**
+### Hybrid
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9983467d686823017d6bea4b950076
-
 
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99832e78f552280178fb09fce17d23
 
-**IoT**
+### IoT
 
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a998313774359bc017749e3f74073f3
 
@@ -103,6 +104,25 @@ https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a998313774359
 
 ### Capaign Resources
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982077ddace40017e313eabdd1e94
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Simplified MSP
 https://www.youtube.com/watch?v=iG6dShv5r-Y&ab_channel=MichelleRagusa-McBain
