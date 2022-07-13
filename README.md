@@ -12,12 +12,38 @@ https://www.candefero.com/survey/surveystart.php?id=983
 https://app.canapii.com/login?e=cisco-provider-elevate
 
 
+### Cisco Capital
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982127bec1204017bf00afc7f18e2
+
 ### Marketing Material
 
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9982077ddace40017e313eabdd1e94/programs/8a9982187e40b3f6017e4ec6ef4c49c8
 
 **k-12 campaign**
 https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99832080d0b49e0180ddef93ea1aae/programs/8a99825480ed61730180f1c699cf0e5e
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99832080d0b49e0180ddef93ea1aae/programs/8a99825480ed61730180f1bd3f250e30
+
+### Meraki Offerings 
+
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99838e7c23c05f017c28fa6bcf6146
+
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99827b709e2ec80170a0a1761408be
+
+### Security offering
+
+**SASE**
+
+https://salesconnect.cisco.com/#/program/PAGE-18439
+
+**Hybrid**
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a9983467d686823017d6bea4b950076
+
+
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a99832e78f552280178fb09fce17d23
+
+**IoT**
+
+https://www.marketingvelocitycentral.cisco.com/#/campaigns/browse/8a998313774359bc017749e3f74073f3
 
 ### How are people selling in MSP?
 
