@@ -11,6 +11,7 @@ https://meraki.cisco.com/managedserviceproviders
    
 </details>
 
+<details>
 <summary>Security Offerings</summary>
 
 ### Is ICE an option?
@@ -25,7 +26,7 @@ https://salesconnect.cisco.com/#/program/PAGE-18439
 </details>
 
 <details>
-<summary>Technical Resources</summary>
+<summary>Technical Resources</summary> 
     
 **Meraki Best Practice**
     
