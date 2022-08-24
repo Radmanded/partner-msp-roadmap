@@ -2,14 +2,13 @@
     Partner-MSP-Roadmap
 </h1>
 
-Resources for the MSP practice
-
 <details>
 <summary>Getting Started</summary>
-   
+
+Resources for the MSP practice
+
 https://meraki.cisco.com/managedserviceproviders
-   
-</details>
+  
 
 <details>
 <summary>Security Offerings</summary>
@@ -153,7 +152,7 @@ https://community.cisco.com/t5/cisco-insider-user-group/ct-p/ccp-home?ccid=cc001
 <details>
 
 
-
+</details>
 
 
 
